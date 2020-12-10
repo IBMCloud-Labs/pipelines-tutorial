@@ -424,7 +424,7 @@ Triggers in conjuntion with pipelines enable us to hook our Pipelines to respond
 
 ## Prerequisites
 
-You need an latest OpenShift 4 cluster running on AWS in order to complete this tutorial. If you don't have an existing cluster, go to http://try.openshift.com and register for free in order to get an OpenShift 4 cluster up and running on AWS within minutes.
+You need an latest OpenShift 4 cluster running on IBM Cloud in order to complete this tutorial. If you don't have an existing cluster, go to https://www.ibm.com/cloud/openshift/openshift-tutorials and register for free in order to get an OpenShift 4 cluster up and running on IBM Cloud within minutes.
 
 >***NOTE:*** Running cluster localy [crc](https://github.com/code-ready/crc/releases) won't work, as we need `webhook-url` to be accessable to `github-repos`
 
